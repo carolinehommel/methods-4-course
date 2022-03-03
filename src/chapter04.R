@@ -1,5 +1,3 @@
-## Setup
-library(rethinking)
 
 ## R code 4.1
 pos <- replicate( 1000 , sum( runif(16,-1,1) ) )
